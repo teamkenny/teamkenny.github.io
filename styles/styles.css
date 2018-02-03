@@ -9,7 +9,7 @@
 
 ul {
  	padding-left: 0;   
- 	font-weight: 200;
+ 	font-weight: 300;
 }
 ul li {
  	list-style-position: inside;
@@ -27,6 +27,7 @@ hr {
 
 .jumbotron p {
 	font-size: 14px;
+	font-weight: 300;
 }
 
 .jumbotron .bold {
@@ -35,5 +36,4 @@ hr {
 
 .jumbotron #title {
 	font-size: 50px;
-	font-weight: bold;
 }
